@@ -11,7 +11,7 @@ The two `.SVG` files mentioned above are hereby licensed under
 By exception from the **NC** clause of said licence, commercial use (as defined
 therein) is **permitted** if such use is limited to assisting with servicing
 any Honda CTX1300 series motorcycle. This exception is an integral part of the
-licence and therefore falls under the effect of the Share-Alike clause as well.
+licence and therefore falls under the effect of the **SA** clause as well.
 
 This repository contains [EDA](http://en.wikipedia.org/wiki/Electronic_design_automation)
 source files describing, in part or whole, various electrical accessories or
